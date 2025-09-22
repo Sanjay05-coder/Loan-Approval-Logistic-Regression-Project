@@ -1,4 +1,4 @@
- oan Approval Model Summary (Income-Based)
+ Loan Approval Model Summary (Income-Based)
  
 This project uses logistic regression to predict loan approval based solely on the applicant's income. The model was trained and evaluated using a binary classification approach, where:
 
